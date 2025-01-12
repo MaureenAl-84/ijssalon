@@ -1,4 +1,3 @@
 print (" Hallo Wereld")
 print ("Welkom in onze ijssalon")
-print ("smaken ijs")
-
+print ("under construction")
